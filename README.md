@@ -1,13 +1,13 @@
 ### Hi there, Nishtha this side 👋
 - 🔭 I’m currently working as Application Developer at ThoughtWorks
-- ❣️ I'm a cynophile and cinephile
+- ❤️ I'm a cynophile and cinephile
 - 😄 Pronouns: She/Her
-<p>
+
   <a href="https://dev.to/nishthapaul">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nishtha Paul's DEV Profile" height="30" width="30" style="float:left;">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nishtha Paul's DEV Profile" height="30" width="30">
   </a>
-  <span style="position:relative;">My Dev Profile</span>
-</p>
+  <span>My Dev Profile</span>
+
 <!--
 **nishthapaul/nishthapaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
