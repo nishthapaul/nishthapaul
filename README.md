@@ -1,5 +1,6 @@
 ### Hi there, Nishtha this side 👋
 - 🔭 I’m currently working as Application Developer at ThoughtWorks
+- ❣️ I'm a cynophile and cinephile
 - 😄 Pronouns: She/Her
 <p>
   <a href="https://dev.to/nishthapaul">
