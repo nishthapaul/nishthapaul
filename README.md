@@ -8,7 +8,9 @@
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nishtha Paul's DEV Profile" height="30" width="30">
   </a>
   <span>My Dev Profile</span>
-  <span>[![@nishthapaul's Holopin board](https://holopin.io/api/user/board?user=nishthapaul)](https://holopin.io/@nishthapaul)</span>
+  <img src="{[BadgeURLHere](https://holopin.io/@nishthapaul)}" />
+  <br>
+  https://holopin.io/api/user/board?user=nishthapaul)](https://holopin.io/@nishthapaul)
 </p>
 
 <!--
