@@ -8,9 +8,9 @@
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nishtha Paul's DEV Profile" height="30" width="30">
   </a>
   <span>My Dev Profile</span>
-  <img src="{https://holopin.io/@nishthapaul}" />
+  <img src="{[https://holopin.io/api/user/board?user=nishthapaul](https://www.holopin.io/userbadge/cl8kfa7a0210709l10ayrtgm2)}" />
   <br>
-  https://holopin.io/api/user/board?user=nishthapaul)](https://holopin.io/@nishthapaul)
+  
 </p>
 
 <!--
