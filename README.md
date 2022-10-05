@@ -8,8 +8,10 @@
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nishtha Paul's DEV Profile" height="30" width="30">
   </a>
   <span>My Dev Profile</span>
-  
 </p>
+
+[![@nishthapaul's Holopin board](https://holopin.io/api/user/board?user=nishthapaul)](https://holopin.io/@nishthapaul)
+
 
 <!--
 **nishthapaul/nishthapaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
