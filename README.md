@@ -1,5 +1,6 @@
 ### Hi there, Nishtha this side 👋
-- 🔭 I’m currently working as Application Developer at ThoughtWorks
+- 🎓 I am currently pursuing MTech in CSE from IIIT Bangalore
+- 🔭 I have two years of experience as an Application Developer at Thoughtworks
 - ❤️ I'm a cynophile and cinephile
 - 😄 Pronouns: She/Her
 
